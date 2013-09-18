@@ -5,7 +5,8 @@ Lawnchair for Enyo
 
 Create it as a normal component withen a kind
 
-```components: [
+```javascript
+components: [
   {kind: "Lawnchair", name: "storage"}
 ]
 
